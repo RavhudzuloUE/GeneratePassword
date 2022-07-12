@@ -1,2 +1,2 @@
 # PasswordGenerator
-# This is an application written in JAVA programming languages and JAVAFX GUI 
+# This is an application that generates password automatically. It is written in JAVA programming language and uses JAVAFX GUI. 
