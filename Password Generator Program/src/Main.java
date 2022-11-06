@@ -7,9 +7,9 @@ public class Main extends Application {
 
 	public void start(Stage primaryStage) throws Exception {
 		 
-		PasswordGeneratorPane pane = new PasswordGeneratorPane();   // Layout PasswordGeneratorPane instances
+		PasswordGeneratorPane pane1 = new PasswordGeneratorPane();   /// Layout PasswordGeneratorPane instances
 		
-		Scene sc = new Scene(pane, 550, 500);          // Creating the scene from the layout
+		Scene sc = new Scene(pane1, 550, 500);          // Creating the scene from the layout
 		
 		primaryStage.setTitle("PASSWORD GENERATOR");    // Title of the stage 
 		primaryStage.setScene(sc);                      // Setting the Scene in the Stage
